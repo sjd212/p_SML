@@ -7,6 +7,11 @@ Game_System *gameSys;
 void release();
 int main()
 {
+
+	std::cout << "I wanna girlfriend" << std::endl;
+
+
+
 	Manual manu;
 	gameSys = new Game_System;
 
