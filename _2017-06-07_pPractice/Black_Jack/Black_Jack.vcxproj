@@ -149,6 +149,7 @@
     <ClCompile Include="AI.cpp" />
     <ClCompile Include="Card_Data.cpp" />
     <ClCompile Include="Game_System.cpp" />
+    <ClCompile Include="history.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Manual.cpp" />
     <ClCompile Include="Player.cpp" />
@@ -157,6 +158,7 @@
     <ClInclude Include="AI.h" />
     <ClInclude Include="Card_Data.h" />
     <ClInclude Include="Game_System.h" />
+    <ClInclude Include="history.h" />
     <ClInclude Include="Manual.h" />
     <ClInclude Include="Player.h" />
   </ItemGroup>
